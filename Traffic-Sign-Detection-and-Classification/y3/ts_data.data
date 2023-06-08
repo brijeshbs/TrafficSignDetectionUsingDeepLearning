@@ -1,0 +1,5 @@
+classes = 43
+train = /content/darknet/data/FullIJCNN2013/train.txt
+valid = /content/darknet/data/FullIJCNN2013/test.txt
+names = /content/darknet/data/FullIJCNN2013/classes.names
+backup = backup
